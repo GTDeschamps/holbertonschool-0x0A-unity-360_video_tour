@@ -69,3 +69,4 @@ At the end of this project you are expected to be able to explain to anyone, wit
 - In your scripts, all your public classes and their members should have XML documentation tags
 - In your scripts, all your private classes and members should be documented but without XML documentation tags
 
+https://creativecommons.org/licenses/by/4.0/
