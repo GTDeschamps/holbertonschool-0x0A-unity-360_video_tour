@@ -11,6 +11,7 @@ public class SphereController : MonoBehaviour
 
 	private int currentSphereIndex = 0; // Indice de la sphère actuelle
 
+
 	// Méthode à appeler pour changer de sphère par nom
 	public void ChangeSphereByName(string sphereName)
 	{
